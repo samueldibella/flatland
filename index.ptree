@@ -1,9 +1,9 @@
 #lang pollen
 
-title.html
-dedication.html
-preface.html
-contents.html
+text/title.html
+text/dedication.html
+text/preface.html
+text/contents.html
 text/part1chapter1.html
 text/part1chapter2.html
 text/part1chapter3.html
