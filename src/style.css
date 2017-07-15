@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'FrenchCanon';
+    src: url('/fonts/IMFeFCrm29C.otf');
+}
+
+body {
+    background: #FAEBD7;
+    margin: 3em;
+    padding: 4em;
+
+    font-family: 'FrenchCanon', serif;
+    font-size: 1.4em;
+}
+
+div {
+
+}
