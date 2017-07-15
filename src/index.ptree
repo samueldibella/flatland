@@ -26,7 +26,6 @@ part2chapter19.html
 part2chapter20.html
 part2chapter21.html
 part2chapter22.html
-◊endmatter.html{
-    colophon.html
+◊colophon.html{
     designernote.html
 }

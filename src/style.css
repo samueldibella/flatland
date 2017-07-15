@@ -15,3 +15,13 @@ body {
 div {
 
 }
+
+a {
+    text-decoration: none;
+    font-style: normal;
+    font-variant-caps: all-small-caps;
+    color: red;
+}
+a :hover {
+    font-style: italic;
+}
