@@ -10,6 +10,7 @@ text/compiled/
 # But keeping source files with Pollen extensions
 !*.md.*
 !*.html.*
+!template.html
 
 #####################################################################
 #####              Racket section from racket/racket            #####
