@@ -1,6 +1,11 @@
 @font-face {
     font-family: 'FrenchCanon';
     src: url('/fonts/IMFeFCrm29C.otf');
+    font-style: normal;
+} @font-face {
+    font-family: 'FrenchCanon';
+    src: url('/fonts/IMFeFCit29C.otf');
+    font-style: italic;
 }
 
 body {
@@ -12,16 +17,20 @@ body {
     font-size: 1.4em;
 }
 
-div {
-
-}
-
 a {
     text-decoration: none;
     font-style: normal;
-    font-variant-caps: all-small-caps;
+    color: inherit;
+}
+a:hover {
     color: red;
 }
-a :hover {
-    font-style: italic;
+
+.margins {
+    font-size: 1.4em;
+    line-height: .8em;
+
+    color: grey;
+    font-variant: small-caps;
+    text-align: right;
 }
